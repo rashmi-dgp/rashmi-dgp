@@ -71,13 +71,3 @@ Prometheus • Grafana • SonarQube • Jira • Confluence • Git
 
 ⭐️ Always open to learning, collaboration, and building impactful systems.
 
----
-
----
-
-## 📊 GitHub Stats
-
-![Rashmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rashmi-dgp&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rashmi-dgp&layout=compact&theme=default)
----
