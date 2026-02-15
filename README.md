@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Rashmi
 
 ### Software Engineer I @ Warner Bros. Discovery  
-Backend • Distributed Systems • Cloud & Data Engineering  
 Hyderabad, India 🇮🇳  
 
 ---
@@ -24,11 +23,11 @@ I believe in solving complex problems with simple, elegant solutions.
 
 ## 🚀 What I'm Currently Exploring
 
-- Advanced system design concepts  
-- Cloud-native architecture patterns  
-- Improving observability & performance optimization  
-- Deepening distributed systems knowledge  
-
+- Designing scalable systems with strong architectural foundations
+- Deepening expertise in distributed system design
+- Exploring practical applications of AI/ML in backend systems
+- Improving observability, performance, and reliability  
+<!--
 ---
 
 ## 📌 Featured Work
@@ -42,7 +41,8 @@ Short 1–2 line description explaining the problem solved and tech used.
 Short 1–2 line impact-focused description.
 
 ---
-
+-->
+---
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rashmi-gupta-30b120228/)  
